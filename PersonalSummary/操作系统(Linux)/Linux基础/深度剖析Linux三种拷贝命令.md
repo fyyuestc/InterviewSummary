@@ -89,6 +89,10 @@ struct dentry {
 
 # 4. cp命令
 
+[深度剖析 Linux cp 的秘密-博客](https://juejin.cn/post/6939328247922425869)
+
+
+
 # 5. 总结
 
 1. 目录文件是一种特殊的文件，可以理解成存储的是 dirent 列表。dirent 只是名字到 inode 的映射，这个是树形结构的基础；
