@@ -14,15 +14,14 @@
 
 * 文件系统的i-node表
 
-* <div align="center">    
-  <img src="https://segmentfault.com/img/bVOX3l?w=619&h=312"/>
-  </div>
+<div align="center">    
+<img src="https://segmentfault.com/img/bVOX3l?w=619&h=312"/>
+</div>
+ 
 
-* 
-
-  <div align="center">    
-  <img src="https://imgconvert.csdnimg.cn/aHR0cDovL2MuYmlhbmNoZW5nLm5ldC91cGxvYWRzL2FsbGltZy8xOTA0MTAvMS0xWjQxMDFINDVTMTMuZ2lm"/>
-  </div>
+<div align="center">    
+<img src="https://imgconvert.csdnimg.cn/aHR0cDovL2MuYmlhbmNoZW5nLm5ldC91cGxvYWRzL2FsbGltZy8xOTA0MTAvMS0xWjQxMDFINDVTMTMuZ2lm"/>
+</div>
 
 
 
