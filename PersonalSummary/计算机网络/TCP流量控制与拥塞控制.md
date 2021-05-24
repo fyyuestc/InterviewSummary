@@ -20,13 +20,27 @@
 
 # 二. TCP拥塞控制
 
-## 2.1 慢开始
+> 在某段时间，若**对网络中某一资源的需求超过了该资源所能提供的可用部分，网络性能就要变坏**，这种情况就叫做**网络拥塞**
 
-## 2.2 拥塞避免
 
-## 2.3 快重传
 
-## 2.4 快恢复
+**拥塞避免：**
+
+<div align="center">    
+<img src="https://res-static.hc-cdn.cn/fms/img/26b4e606203b6c15ac22e28040fa7e4a1603441882875.png"/>
+</div>
+
+
+
+**快速重传：**
+
+<div align="center">    
+<img src="https://res-static.hc-cdn.cn/fms/img/6f3f8b7ce12edccb505959bf272228641603441882876.png"/>
+</div>
+
+<div align="center">    
+<img src="https://res-static.hc-cdn.cn/fms/img/e25a4a79b538197e69c7356766d688861603441882876.png"/>
+</div>
 
 
 
