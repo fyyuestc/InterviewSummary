@@ -25,24 +25,11 @@
 
 
 **拥塞避免：**
-
-<div align="center">    
-<img src="https://res-static.hc-cdn.cn/fms/img/26b4e606203b6c15ac22e28040fa7e4a1603441882875.png"/>
-</div>
-
-
+![TCP的拥塞控制](https://raw.githubusercontent.com/fyyuestc/Images/main/img/202205062118940.png)
 
 **快速重传：**
-
-<div align="center">    
-<img src="https://res-static.hc-cdn.cn/fms/img/6f3f8b7ce12edccb505959bf272228641603441882876.png"/>
-</div>
-
-<div align="center">    
-<img src="https://res-static.hc-cdn.cn/fms/img/e25a4a79b538197e69c7356766d688861603441882876.png"/>
-</div>
-
-
+![](https://raw.githubusercontent.com/fyyuestc/Images/main/img/202205062121065.png)
+![](https://raw.githubusercontent.com/fyyuestc/Images/main/img/202205062121537.png)
 
 # 三. 区别
 
